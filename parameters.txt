@@ -1,0 +1,4 @@
+bird.jpg
+25
+100
+colour_maps/DMC_map_sorted.csv
