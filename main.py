@@ -11,7 +11,7 @@ if __name__ == "__main__":
     algo = PixelateAlgorithm()
 
     # Запуск через консоль.
-    # Пример ввода: python "main.py" "test_pics/bird.jpg" 25 100
+    # Пример ввода: python "main.py" "pictures/Lenna.jpg" 25 100
     if len(params) < 4:
         print('Wrong input!',
               'Input file should be like: ',
